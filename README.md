@@ -2,9 +2,6 @@
 
 This repository is created in order to showcase a highlight of my data analytics projects ranging from financial valuations to database management
 
-## About Me
-
-I am a data analyst with a passion for uncovering insights and trends in data. I have experience in a variety of tools and techniques for data exploration and visualization.
 
 ## Projects
 
